@@ -1,2 +1,2 @@
-# Double-M-Uncertainty-Quantification
-Uncertainty Quantification of Collaborative Detection for Self-Driving
+# Where2comm
+Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps
