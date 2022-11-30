@@ -3,7 +3,7 @@
 
 [**Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps</a>**](https://arxiv.org/abs/2209.12836)
 <br>
-<a href="https://scholar.google.com/citations?user=XBbwb78AAAAJ&hl=zh-CN"> Yue Hu, <a href="https://github.com/dongfeng12"> Shaoheng Fang, <a href="https://chezacar.github.io/">Zixing Lei, <a href="https://github.com/Kay1794"> Yiqi Zhong, <a href="https://mediabrain.sjtu.edu.cn/sihengc/">Siheng Chen</a> 
+<a href="https://scholar.google.com/citations?user=XBbwb78AAAAJ&hl=zh-CN"> Yue Hu, <a href="https://github.com/dongfeng12"> Shaoheng Fang, <a href="https://chezacar.github.io/">Zixing Lei, <a href="https://github.com/Kay1794"> Yiqi Zhong, <a href="https://siheng-chen.github.io/">Siheng Chen</a> 
 <br>
 Presented at [Neurips 2022 Spotlight](https://nips.cc/)
 
